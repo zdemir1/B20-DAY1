@@ -7,3 +7,5 @@ Git automacially detected the cahnges
 We committed cahnges into loca repository
 
 more changes
+
+I am making changes for file1.txt under B20-DAY1 Repository

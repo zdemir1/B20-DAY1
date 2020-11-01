@@ -5,3 +5,5 @@ We created a git repository on desktop called B20-Day1
 We added one file called this is a day1
 Git automacially detected the cahnges
 We committed cahnges into loca repository
+
+more changes
